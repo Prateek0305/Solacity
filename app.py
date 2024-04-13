@@ -18,7 +18,7 @@ def process_message():
 
 def send_to_ai_api(message):
     # Replace 'YOUR_API_KEY' with your actual API key
-    api_key = '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'
+    api_key = 'apikey'
     # Replace 'YOUR_MODEL_ID' with your actual model ID
     model_id = 'gpt-3.5-turbo-0125'
     headers = {
