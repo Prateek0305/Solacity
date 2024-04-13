@@ -17,3 +17,7 @@
 2. **Soothing Interface:** Enjoy a calming and user-friendly interface designed to promote relaxation and ease of navigation.
 
 3. **Designed Website Logo:** Our distinctive logo, thoughtfully designed to reflect our mission and values, enhances brand identity and recognition.
+
+## Development Background:
+
+<b>This platform was built during the Study Pods program organized by GDSC MBM Chapter, providing a collaborative environment for learning and innovation among students. </b>
