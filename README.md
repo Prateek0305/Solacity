@@ -1,4 +1,4 @@
-#Mental Health Platform
+# Mental Health Platform
 
 ## Key Features of website:
 
