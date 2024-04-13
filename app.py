@@ -17,9 +17,9 @@ def process_message():
     return jsonify({'message': response})
 
 def send_to_ai_api(message):
-    # Replace 'YOUR_API_KEY' with your actual API key
+    
     api_key = 'apikey'
-    # Replace 'YOUR_MODEL_ID' with your actual model ID
+    
     model_id = 'gpt-3.5-turbo-0125'
     headers = {
         'Authorization': f'Bearer {api_key}',
