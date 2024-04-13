@@ -1,4 +1,4 @@
-# Hactivists: Mental Health Platform
+#Mental Health Platform
 
 ## Key Features of website:
 
@@ -20,4 +20,4 @@
 
 ## Development Background:
 
-<b>This platform was built during the Study Pods program organized by GDSC MBM Chapter, providing a collaborative environment for learning and innovation among students. </b>
+<b>This platform was built by team HACKTIVISTS during the Study Pods program organized by GDSC MBM Chapter, providing a collaborative environment for learning and innovation among students. </b>
