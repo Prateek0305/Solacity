@@ -12,11 +12,11 @@
 
 ## Features w.r.t project:
 
-1. **Login/Signup Page:** Secure access to personalized features and community interactions through our dedicated login/signup page.
+- **Login/Signup Page:** Secure access to personalized features and community interactions through our dedicated login/signup page.
 
-2. **Soothing Interface:** Enjoy a calming and user-friendly interface designed to promote relaxation and ease of navigation.
+- **Soothing Interface:** Enjoy a calming and user-friendly interface designed to promote relaxation and ease of navigation.
 
-3. **Designed Website Logo:** Our distinctive logo, thoughtfully designed to reflect our mission and values, enhances brand identity and recognition.
+- **Designed Website Logo:** Our distinctive logo, thoughtfully designed to reflect our mission and values, enhances brand identity and recognition.
 
 ## Development Background:
 
